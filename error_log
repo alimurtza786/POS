@@ -1,0 +1,1 @@
+[20-Sep-2023 23:33:31 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/hssofalv/takeaot.hssolsdemos.com/app/Http/Controllers/TakealotApiController.php on line 104
